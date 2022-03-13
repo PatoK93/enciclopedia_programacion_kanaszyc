@@ -228,6 +228,16 @@ a {
 }
 
 
+/***Transformaciones***/
+
+
+/*Gradientes*/
+
+.gradiente {
+    background-image: linear-gradient(to bottom, lightblue, lightyellow);
+}
+
+
 /***Responsive***/
 
 @media screen and (max-width: 480px) {
